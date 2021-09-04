@@ -1,0 +1,1 @@
+ESTAT_BASE_URL = 'http://api.e-stat.go.jp'
